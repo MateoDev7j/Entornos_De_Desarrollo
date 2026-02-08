@@ -26,4 +26,4 @@ Configuración y optimización de entornos de trabajo profesionales.
 - Manejo de metodologías de trabajo en equipo.
 - Capacidad de análisis y diseño de casos de prueba.
 - Optimización de procesos mediante herramientas de desarrollo.
-**Mateo Daniel Ortulo Ovando <br> Readme hecho el 07/02/2026**
+<br>**Mateo Daniel Ortulo Ovando <br> Readme hecho el 07/02/2026**
