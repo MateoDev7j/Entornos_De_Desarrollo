@@ -1,4 +1,4 @@
-# <img width="75" height="75" alt="Image" src="https://github.com/user-attachments/assets/b772c0cc-8dc0-48e2-83af-abb907ec6c05" /> Entornos de Desarrollo - Portafolio Académico
+# <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/b772c0cc-8dc0-48e2-83af-abb907ec6c05" /> Entornos de Desarrollo - Portafolio Académico
 
 Este repositorio contiene mis prácticas y documentación sobre metodologías, herramientas y pruebas de calidad de software realizadas durante el curso.
 
