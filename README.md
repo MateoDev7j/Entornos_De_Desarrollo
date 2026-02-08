@@ -1,8 +1,8 @@
-# 🛠️ Entornos de Desarrollo - Portafolio Académico
+# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/707b1613-b4a8-4880-a835-068d981cbb89" /> Entornos de Desarrollo - Portafolio Académico
 
 Este repositorio contiene mis prácticas y documentación sobre metodologías, herramientas y pruebas de calidad de software realizadas durante el curso.
 
-## 📚 Contenido por Unidades
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/56e722ae-3b14-44c0-8985-c84e110340d2" /> Contenido por Unidades
 
 ### 🔹 Unidad 1: Ciclo de Vida y Fundamentos
 Documentación sobre la evolución del software y sus fases iniciales.
@@ -22,7 +22,7 @@ Configuración y optimización de entornos de trabajo profesionales.
 *   **Pruebas Unitarias:** Validación de componentes individuales.
 
 ---
-## 🛠️ Competencias Adquiridas
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/3dfd4ead-e1aa-4815-8972-affd7fa36ce3" /> Competencias Adquiridas
 - Manejo de metodologías de trabajo en equipo.
 - Capacidad de análisis y diseño de casos de prueba.
 - Optimización de procesos mediante herramientas de desarrollo.
